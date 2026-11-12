@@ -1,0 +1,11 @@
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Model files and data (too large for GitHub)
+*.keras
+*.h5
+data/
+report_assets/
+*.zip
